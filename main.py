@@ -1,3 +1,5 @@
+from regEx import RegexRules
+
 class RegEx:
     def __init__(self, pattern: str):
         self.pattern = pattern
